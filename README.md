@@ -1,6 +1,3 @@
-
----
-
 ## DE Deutsche Version
 
 *[English version below](#-english-version)*
