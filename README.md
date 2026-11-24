@@ -26,6 +26,7 @@ Ein einfacher Konsolen-Taschenrechner in Java, der mit `Scanner` und `String.spl
 
 ## 🇬🇧 English Version
 
+
 # Java Console Calculator
 
 A command-line calculator in Java using `Scanner` and `String.split` to parse and evaluate two-operand arithmetic expressions in the terminal.
